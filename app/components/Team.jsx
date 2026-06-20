@@ -5,9 +5,9 @@ import { motion } from 'framer-motion'
 import JoinModal from './JoinModal'
 
 const team = [
-  { name: 'Алексей Иванов', role: 'CEO & Founder', exp: '10 лет в IT-продуктах', photo: '/team1.jpg' },
-  { name: 'Мария Петрова', role: 'CTO', exp: '8 лет full-stack разработки', photo: '/team2.jpg' },
-  { name: 'Дмитрий Смирнов', role: 'Lead Designer', exp: '7 лет в UX/UI', photo: '/team3.jpg' },
+  { name: 'Алексей Иванов', role: 'CEO & Founder', exp: '10 лет в IT-продуктах', photo: '/IMG_1226.jpeg' },
+  { name: 'Мария Петрова', role: 'CTO', exp: '8 лет full-stack разработки', photo: 'IMG_1639.jpeg' },
+  { name: 'Дмитрий Смирнов', role: 'Lead Designer', exp: '7 лет в UX/UI', photo: '/IMG_2203.jpeg' },
 ]
 
 export default function Team() {
