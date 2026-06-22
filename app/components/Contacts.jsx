@@ -5,8 +5,8 @@ import { Mail, Phone, MessageCircle, MapPin, Send, Linkedin, Twitter } from 'luc
 
 export default function Contacts() {
   const contacts = [
-    { icon: Mail, label: 'Email', value: 'hello@startup.com', href: 'mailto:hello@startup.com' },
-    { icon: Phone, label: 'Телефон', value: '+1 (234) 567-890', href: 'tel:+1234567890' },
+    { icon: Mail, label: 'Email', value: 'artyomarutynyan0127@gmail.com', href: 'mailto:artyomarutynyan0127@gmail.com' },
+    { icon: Phone, label: 'Телефон', value: '8 (980) 731-99-71', href: 'tel:8 (980) 731-99-71' },
     { icon: MessageCircle, label: 'Telegram', value: '@startup_support', href: 'https://t.me/startup_support' },
     { icon: MapPin, label: 'Офис', value: 'San Francisco, CA', href: '#' },
   ]

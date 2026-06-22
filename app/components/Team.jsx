@@ -13,59 +13,59 @@ import 'swiper/css/pagination'
 
 const teamMembers = [
   { 
-    name: 'Алексей Иванов', 
+    name: 'Артём Арутюнян', 
     role: 'CEO & Founder', 
     exp: '10 лет в IT-продуктах', 
-    photo: '/team/alexey.jpg',
+    photo: '/team/IMG_1675.jpeg',
     bio: 'Экс-директор по продукту в Яндекс.Cloud'
   },
   { 
     name: 'Мария Петрова', 
     role: 'CTO', 
     exp: '8 лет full-stack разработки', 
-    photo: '/team/maria.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Архитектор распределённых систем'
   },
   { 
     name: 'Дмитрий Смирнов', 
     role: 'Lead Designer', 
     exp: '7 лет в UX/UI', 
-    photo: '/team/dmitry.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Дизайнер года 2023 по версии Behance'
   },
   { 
     name: 'Екатерина Козлова', 
     role: 'Head of Product', 
     exp: '6 лет управления продуктами', 
-    photo: '/team/ekaterina.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Запустила 5 успешных стартапов'
   },
   { 
     name: 'Сергей Морозов', 
     role: 'Tech Lead Backend', 
     exp: '9 лет разработки на Python', 
-    photo: '/team/sergey.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Специалист по высоким нагрузкам'
   },
   { 
     name: 'Анна Соколова', 
     role: 'Frontend Team Lead', 
     exp: '6 лет React-разработки', 
-    photo: '/team/anna.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Входит в топ-50 React-разработчиков'
   },
   { 
     name: 'Игорь Васильев', 
     role: 'DevOps Engineer', 
     exp: '8 лет в инфраструктуре', 
-    photo: '/team/igor.jpg',
+    photo: '/team/IMG_2083.png',
     bio: 'Сертифицированный AWS-инженер'
   },
   { 
     name: 'Ольга Новикова', 
     role: 'Marketing Director', 
     exp: '7 лет в IT-маркетинге', 
-    photo: '/team/IMG_2755.jpeg',
+    photo: '/team/IMG_2083.png',
     bio: 'Вывела на рынок 10+ продуктов'
   },
 ]

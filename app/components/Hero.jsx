@@ -16,7 +16,7 @@ export default function Hero() {
           <span className="text-[#007AFF]">уже сегодня</span>
         </h1>
         <p className="text-xl md:text-2xl text-[#1D1D1F]/60 mt-6 max-w-2xl mx-auto">
-          Наш продукт решает задачи, с которыми не справились другие
+          Портативное ультразвуковое устройство для бесконтактной очистки полости рта — работает через кавитацию, подходит детям, пожилым и людям с брекетами и имплантами.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <button className="bg-[#007AFF] text-white px-8 py-3 rounded-full text-lg hover:scale-105 transition">
